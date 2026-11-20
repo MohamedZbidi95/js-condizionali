@@ -8,9 +8,8 @@ PROBLEMA: il programma usa una variabile boolean per il biglietto
 e una variabile number per l'età.
 Mostra "Benvenuto" solo se l'utente ha il biglietto ed è maggiorenne,
 altrimenti spiega cosa manca.
-
-  Dispensa: https://boolean-aiwd-1.netlify.app/lezioni/js-condizioni.html (cap. 5)
 */
+//Dispensa: https://boolean-aiwd-1.netlify.app/lezioni/js-condizioni.html (cap. 5)
 
 const ticket = true;
 const age = 18;
