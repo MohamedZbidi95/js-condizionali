@@ -8,10 +8,10 @@ EX- l'utente inserisce due parole,
 // INPUT
 
 // First word
-let firstWord = prompt("Enter the first word");
+const firstWord = prompt("Enter the first word");
 
 // Second word
-let secondWord = prompt("Enter the second word");
+const secondWord = prompt("Enter the second word");
 
 // PROCESSING + OUTPUT
 
